@@ -33,8 +33,9 @@
 		 예시) 8개의 납면위험률과 rule에 대한 정보
 		 a 담보) 독립인 경우는 8개 가장 기본적인 납면 rule
 		 b 담보) 탈퇴가 있고 이재소멸 담보의 경우에는 납면 rule이 다름
-		  >> 종류가 많음 위험률 관계 
-		 c 담보   
+		  >> 종류가 많음 위험률 관계에 따라서 산식이 정의가 되는것을 가지고 옴
+		  
+		 c 담보) 납면 미적용 담보는 미적용특성   
 	  ```
 
    - 동일한 case
@@ -42,6 +43,6 @@
           - 예정이율, 평균공시이율
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjA3MjY0MzcsLTgwMTU5ODMxNywtNj
-AyMjk5ODI0LC0xMzE0NDU0OTQ2XX0=
+eyJoaXN0b3J5IjpbLTYzMTYyNjQ4LC04MDE1OTgzMTcsLTYwMj
+I5OTgyNCwtMTMxNDQ1NDk0Nl19
 -->
