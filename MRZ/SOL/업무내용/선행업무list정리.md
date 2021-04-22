@@ -42,8 +42,8 @@
    - 동일한 case
       1)  상품 level
           - 예정이율, 평균공시이율
-          - 신계약비부가년수
+          - 신계약비부가년수와 해약공제년수는 현재sol은코드로...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzg2MzcwNTIsLTEzMDg1NDA5MzgsLT
-gwMTU5ODMxNywtNjAyMjk5ODI0LC0xMzE0NDU0OTQ2XX0=
+eyJoaXN0b3J5IjpbMTUxOTI1MjIyNiwtMTMwODU0MDkzOCwtOD
+AxNTk4MzE3LC02MDIyOTk4MjQsLTEzMTQ0NTQ5NDZdfQ==
 -->
