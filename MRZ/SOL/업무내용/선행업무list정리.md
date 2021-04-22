@@ -20,10 +20,13 @@
 ## 맵핑이 필요한 data 
 
 * risk rule 정보
+   - layout의 유효값과 위험률 구분자의 유효값이 다른 경우 어떻게 해야할지?
+
 * datalink 정보
+   - layout의 유효값과 위험률 구분자의 유효값이 다른 경우 어떻게 해야할지?
 * 상품정보 > 담보정보 > 급부정보
 
        
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1NzYzMzA0XX0=
+eyJoaXN0b3J5IjpbMTg2NjM2MjU5Ml19
 -->
