@@ -32,7 +32,8 @@
 		  ```
 		 예시) 8개의 납면위험률과 rule에 대한 정보
 		 a 담보) 독립인 경우는 8개 가장 기본적인 납면 rule
-		 b 담보) 탈퇴가 있고 이재소멸 담보의 경우에는 납면 rule이다르고 위험률     
+		 b 담보) 탈퇴가 있고 이재소멸 담보의 경우에는 납면 rule이 다름
+		 c 담보   
 	  ```
 
    - 동일한 case
@@ -40,6 +41,6 @@
           - 예정이율, 평균공시이율
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTU5ODMxNywtNjAyMjk5ODI0LC0xMz
-E0NDU0OTQ2XX0=
+eyJoaXN0b3J5IjpbLTE1ODY1MzQ3MzQsLTgwMTU5ODMxNywtNj
+AyMjk5ODI0LC0xMzE0NDU0OTQ2XX0=
 -->
