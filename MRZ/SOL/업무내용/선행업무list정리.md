@@ -27,13 +27,18 @@
 * 상품정보 > 담보정보 > 급부정보
    - 프로펫 단과 sol에서 정의하는 level 이 다른 case
       1)  납면정보	
- 
+          - prophet은 담보단에서 정의
+          - SOL은 상품단에서 정의 
 		  ```
+		 예시) 8개의 납면위험률과 rule에 대한 정보
 		 a 담보) 독립인 경우는 8개 가장 기본적인 납면 rule
 		 b 담보) 탈퇴가 있고 이재소멸 담보의 경우에는 납면 rule이다르고 위험률     
 	  ```
-	 
+
+   - 동일한 case
+      1)  상품	
+  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4MTU2ODA2LC02MDIyOTk4MjQsLTEzMT
-Q0NTQ5NDZdfQ==
+eyJoaXN0b3J5IjpbLTIxMjEyMjcxNTcsLTYwMjI5OTgyNCwtMT
+MxNDQ1NDk0Nl19
 -->
