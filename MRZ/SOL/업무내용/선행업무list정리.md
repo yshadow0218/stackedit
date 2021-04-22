@@ -9,7 +9,8 @@
     1) 위험률DB전체 data	
     2) 실제 사용하지 않는 위험률 갯수 
     3) mapping이 필요한 위험률 갯수 
-      - 현재는     
+       - 현재는  갱신 담보 위주로 맵핑을 하려고 하나 그렇게 해도 될까?
+          
  * 위험률 유형 구분 
     - 구분자가 많아서 빼놓은 재물 위험률
     - 이차암
@@ -27,6 +28,5 @@
 
        
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjk1Njg1MjEsLTEzMTQ0NTQ5NDZdfQ
-==
+eyJoaXN0b3J5IjpbLTYwMjI5OTgyNCwtMTMxNDQ1NDk0Nl19
 -->
