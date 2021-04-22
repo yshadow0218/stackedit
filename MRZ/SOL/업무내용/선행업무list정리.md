@@ -14,19 +14,18 @@
     - 구분자가 많아서 빼놓은 재물 위험률
     - 이차암
     - 일반 
-       - 구분자가 바뀌는 경우 
+       - 구분자가 바뀌는 경우(아래 datalinnk정보와 유사한 정보)
        - 손해율 가정으로 인해 원래 
 
 ## 맵핑이 필요한 data 
 
 * risk rule 정보
-   - layout의 유효값과 위험률 구분자의 유효값이 다른 경우 어떻게 해야할지?
-
+   - 위험률 조합을 현재 프로펫 내부의 rule을 체크할 수 있는지 확인
 * datalink 정보
-   - layout의 유효값과 위험률 구분자의 유효값이 다른 경우 어떻게 해야할지?
+   - layout의 유효값과 위험률 구분자의 유효값이 다른 경우 어떻게 해야할지? mapping table 이용
 * 상품정보 > 담보정보 > 급부정보
 
        
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjM2MjU5Ml19
+eyJoaXN0b3J5IjpbLTEzMTQ0NTQ5NDZdfQ==
 -->
