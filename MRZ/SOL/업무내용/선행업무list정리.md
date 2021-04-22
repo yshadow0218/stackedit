@@ -11,7 +11,7 @@
     3) mapping이 필요한 위험률 갯수 
     
  * 위험률 유형 구분 
-    - 재물
+    - 구분자가 많아서 빼놓은 재물 위험률
     - 이차암
     - 일반 
        - 구분자가 바뀌는 경우 
@@ -21,9 +21,9 @@
 
 * risk rule 정보
 * datalink 정보
-* 상품정ㅂ
-* 
+* 상품정보 > 담보정보 > 급부정보
+
        
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTcyODQxNzRdfQ==
+eyJoaXN0b3J5IjpbODY1NzYzMzA0XX0=
 -->
