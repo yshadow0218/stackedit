@@ -36,9 +36,10 @@
 	  ```
 
    - 동일한 case
-      1)  상품	
+      1)  상품 level
+          - 예정이율, 평균공시이율
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjEyMjcxNTcsLTYwMjI5OTgyNCwtMT
-MxNDQ1NDk0Nl19
+eyJoaXN0b3J5IjpbLTgwMTU5ODMxNywtNjAyMjk5ODI0LC0xMz
+E0NDU0OTQ2XX0=
 -->
