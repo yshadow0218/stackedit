@@ -43,8 +43,8 @@
       1)  상품 level
           - 예정이율, 평균공시이율
           - 신계약비부가년수와 해약공제년수는 현재sol은코드로...
-          -  
+          -  태아담보는 유형을 굳이 왜 4개로 나누었을까?? 전기납과 태아납?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MTc2Nzk3NywtMTMwODU0MDkzOCwtOD
-AxNTk4MzE3LC02MDIyOTk4MjQsLTEzMTQ0NTQ5NDZdfQ==
+eyJoaXN0b3J5IjpbNDUzNTc4MDQ2LC0xMzA4NTQwOTM4LC04MD
+E1OTgzMTcsLTYwMjI5OTgyNCwtMTMxNDQ1NDk0Nl19
 -->
