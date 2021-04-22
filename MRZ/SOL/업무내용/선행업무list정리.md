@@ -25,14 +25,15 @@
 * datalink 정보
    - layout의 유효값과 위험률 구분자의 유효값이 다른 경우 어떻게 해야할지? mapping table 이용
 * 상품정보 > 담보정보 > 급부정보
-   -  납면정보가 우리 8개 납면 rule 위험률 
+   - 프로펫 단과 sol에서 정의하는 level 이 다른 case
+      1)  납면정보	
  
-	 ```
-	 a 담보) 독립인 경우는 8개 가장 기본적인 납면 rule
-	 b 담보) 탈퇴가 있고 이재소멸 담보의 경우에는 납면 rule이다르고 위험률     
-   ```
+		  ```
+		 a 담보) 독립인 경우는 8개 가장 기본적인 납면 rule
+		 b 담보) 탈퇴가 있고 이재소멸 담보의 경우에는 납면 rule이다르고 위험률     
+	  ```
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzA5MDcyNTMsLTYwMjI5OTgyNCwtMT
-MxNDQ1NDk0Nl19
+eyJoaXN0b3J5IjpbNDI4MTU2ODA2LC02MDIyOTk4MjQsLTEzMT
+Q0NTQ5NDZdfQ==
 -->
